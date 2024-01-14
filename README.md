@@ -1,15 +1,14 @@
-# BaseVideoPluginFramework
+# CooingPlugin
 
-[**媒体盒子**](https://github.com/RyensX/MediaBoxPlugin)视频插件框架
+[咕咕影视](https://cooing.cc/)的[媒体盒子](https://github.com/RyensX/MediaBox/)视频插件
 
-提供基础UI和数据框架，方便快速实现视频插件
+
+基于[视频插件框架](https://github.com/RyensX/MediaBoxBasePlugin)快速实现
 
 ## 如何使用
 
-1. ```git submodule```引入本仓库，具体做法类似[这里](https://github.com/RyensX/MediaBox/wiki/2.%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B#1%E5%88%9D%E5%A7%8B%E5%8C%96%E5%B7%A5%E7%A8%8B)
-2. 按需继承并编写Framework组件
-3. 继承BasePluginFactory编写PluginFactory，具体做法类似[这里](https://github.com/RyensX/MediaBox/wiki/2.%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B#2%E6%B3%A8%E5%86%8C%E6%8F%92%E4%BB%B6)
-4. 按照[流程](https://github.com/RyensX/MediaBoxPluginRepository)发布插件
+1. 下载安装[媒体盒子](https://github.com/RyensX/MediaBox/)
+2. 打开媒体盒子下载安装本插件，具体见[这里](https://ryensx.github.io/MediaBoxPluginRepository/start.html)
 
 ## 免责声明
 
